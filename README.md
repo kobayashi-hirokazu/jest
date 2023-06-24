@@ -7,8 +7,8 @@ VS CODE
 
 * nodeの確認(v18が入っていない場合は入れる)
   * Node.jsのパッケージ管理ツールを入れてバージョンを18.0.0にする
-    * volta記事のURL貼る
-    * nodebrewの場合（記事のURL）
+    * volta：https://web-engineer-wiki.com/node/volta-install/
+    * nodebrew：https://fromscratch-y.work/blog/programming/mac-nodejs-install/
 
 * 必要なモジュールのインストール
   
