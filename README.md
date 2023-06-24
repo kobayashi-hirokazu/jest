@@ -18,3 +18,8 @@ npx ts-jest config:init
 ```
 
 準備完了！
+
+## テスト実行のコマンド
+```
+npx jest
+```
